@@ -1,0 +1,25 @@
+# =============================================
+#   SMS OTP BOT — ENVIRONMENT CONFIGURATION
+# =============================================
+
+# Your bot token from @BotFather
+BOT_TOKEN=8459834492:AAF-RW2qSaMA5QnKcgiMwtq9Zx-VwITSe7Y
+
+# Your Telegram user ID (owner)
+OWNER_ID=8896123901
+
+# OTP Telegram group ID (starts with -100...)
+# Leave empty to disable OTP forwarding
+OTP_GROUP_ID=-1002401348576
+
+# Default support username
+SUPPORT_USERNAME=@support
+
+# Referral reward amount in ৳ (Taka)
+REFERRAL_AMOUNT=0.5
+
+# Minimum withdrawal amount in ৳ (Taka)
+MIN_WITHDRAW=5.0
+
+# Your OTP group invite link
+OTP_GROUP_LINK=https://t.me/your_otp_group
