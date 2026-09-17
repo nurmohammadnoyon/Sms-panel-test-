@@ -223,7 +223,7 @@ def support_keyboard(support_username: str = ""):
     uname = (support_username or "Md_Alamin_islam9").lstrip("@")
     buttons = [
         [InlineKeyboardButton("☎️ Contact Support", url=f"https://t.me/{uname}", style="success")],
-        [InlineKeyboardButton("☎️ Contact Developer", url="https://t.me/Hamja4k", style="success")],
+        [InlineKeyboardButton("☎️ Contact Developer", url="https://t.me/d4kxo", style="success")],
     ]
     return InlineKeyboardMarkup(buttons)
 
